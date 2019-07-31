@@ -1,0 +1,2 @@
+2019-07-31 22:56:27,305 [python_logging.py:27 - <module>() ] [INFO] This is Info
+2019-07-31 22:56:27,306 [python_logging.py:28 - <module>() ] [DEBUG] This is Debug
