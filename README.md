@@ -1,2 +1,2 @@
-# python_logging
+# Python Logging
 Setup logging utility function
